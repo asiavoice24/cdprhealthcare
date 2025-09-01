@@ -1,4 +1,4 @@
-# Hospital Management System
+# CDPR Health Care Management System
 Hospital Management System using MySQL, Php and Bootstrap
 
 
